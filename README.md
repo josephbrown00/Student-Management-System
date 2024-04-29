@@ -35,4 +35,4 @@ In student.cpp:
 4. degree.h:
 This file defines an enumerated data type DegreeProgram, which represents the degree programs available to students. The enumerated values include SECURITY, NETWORK, and SOFTWARE.
 
-By understanding the purpose and functionality of each file, you can demonstrate your understanding of object-oriented programming principles and your ability to design and implement software solutions. These files collectively represent a student management system implemented in C++.
+ These files collectively represent a student management system implemented in C++.
